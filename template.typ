@@ -78,7 +78,6 @@
 // TODO: 大章节黑体，小章节宋体，需要自己实现outline()
 #let toc() = {
 
-  // HUST 的反人类目录还包括出现在目录前的摘要……硬编码吧
   align(center)[
     #text(font: heiti, size: 18pt, "目　　录")
   ]
@@ -397,7 +396,7 @@
     header: {
       set text(font: songti, 10pt, baseline: 8pt, spacing: 3pt)
       set align(center)
-      [华 中 科 技 大 学 毕 业 设 计 (论 文)]
+      [东 北 大 学 大 学 毕 业 设 计 (论 文)]
       line(length: 100%, stroke: 0.7pt)
     }
   )
