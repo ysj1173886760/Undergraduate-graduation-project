@@ -1,6 +1,4 @@
-# HUST-typst-template
-
-用于华科毕业设计（本科）的 typst 模板。
+毕设，复用了HUST的模板，之后再改吧改吧成NEU的格式
 
 ## 什么是 typst
 
